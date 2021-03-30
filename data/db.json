@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Velkommen til Eigol",
+      "body": "Jeg sku ku tale med Bjarnil, er det her han er?",
+      "tags": [
+        "webdev",
+        "coding",
+        "danish-tv"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Nu skal jeg sige dig en ting",
+      "body": "Du skal ikke stå her og true mig med den giraf",
+      "tags": [
+        "webdev",
+        "coding",
+        "gaming"
+      ]
+    },
+    {
+      "title": "test",
+      "body": "hest",
+      "tags": [
+        "fest",
+        "vest",
+        "pest"
+      ],
+      "id": 3
+    },
+    {
+      "title": "lele",
+      "body": "lålå",
+      "tags": [
+        "lolo",
+        "lala",
+        "lele"
+      ],
+      "id": 4
+    },
+    {
+      "title": "lorem",
+      "body": "ipsum",
+      "tags": [
+        "dolor",
+        "sit",
+        "amet"
+      ],
+      "id": 5
+    }
+  ]
+}
